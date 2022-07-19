@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Email：i@arcitcgn.cn
- QQ：3305704522
-  WeChat number:Arcitcgn
+- Email：i@arcitcgn.cn
+- QQ：3305704522
+- WeChat number:Arcitcgn
 </p>
