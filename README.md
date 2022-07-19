@@ -1,4 +1,4 @@
-<p align="center"><img src="https://oc.arcitcgn.cn/2022/07/19/62d64d031c75d.png"></p>
+<p align="center"><img src="1.png"></p>
 
 <h1 align="center">I'm Arcitcgn，And my name is Hou Zhuohong.</h1>
 <h3 align="center">I come from a small city in southern China. I don't show my personality. I hate going with the tide and love life</h3>
