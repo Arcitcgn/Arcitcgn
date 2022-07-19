@@ -27,4 +27,4 @@
 
 Welcome to my website
 
-![https://arcitcgn.cn](宏的自留地）
+https://arcitcgn.cn
