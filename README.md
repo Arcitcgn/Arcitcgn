@@ -5,5 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://arcitcgn.cn/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://arcitcgn.cn/feed/" height="30" width="40" /></a>
+Email：i@arcitcgn.cn
+ QQ：3305704522
+  WeChat number:Arcitcgn
 </p>
