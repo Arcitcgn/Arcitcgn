@@ -17,4 +17,10 @@
 
 <h3>Latest Blog Posts</h3>
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [ADN加速服务工作流程](https://arcitcgn.cn/185.html)
+- [初柒科技：“扬帆起航”LOGO设计活动](https://arcitcgn.cn/181.html)
+- [ADN公益加速 —— Jsdelivr npm（国内）,ElmCDN的优质替代方案](https://arcitcgn.cn/171.html)
+- [人间七月](https://arcitcgn.cn/169.html)
+- [Biological experiment operation test](https://arcitcgn.cn/160.html)
+<!-- BLOG-POST-LIST:END -->
