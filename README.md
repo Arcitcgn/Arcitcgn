@@ -19,10 +19,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [重要通知：对加速服务的调整](https://arcitcgn.cn/192.html)
-- [ADN公益服务使用协议](https://arcitcgn.cn/189.html)
-- [ADN加速服务工作流程](https://arcitcgn.cn/185.html)
+- [Afdelivr公益服务使用协议](https://arcitcgn.cn/189.html)
+- [AfDelivr加速服务工作流程](https://arcitcgn.cn/185.html)
 - [初柒科技：“扬帆起航”LOGO设计活动](https://arcitcgn.cn/181.html)
-- [ADN公益加速 —— Jsdelivr npm（国内）,ElmCDN的优质替代方案](https://arcitcgn.cn/171.html)
+- [AfDelivr —— Jsdelivr npm（国内）,ElmCDN的优质替代方案](https://arcitcgn.cn/171.html)
 <!-- BLOG-POST-LIST:END -->
 
 Welcome to my website
